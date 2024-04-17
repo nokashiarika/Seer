@@ -1,0 +1,1647 @@
+You entered the prompt: I live in Santa Clara
+Santa Clara
+Opening Zillow page for Santa Clara: https://www.zillow.com/homes/Santa-Clara_rb/
+{
+  "zpid": 245001606,
+  "listingSource": null,
+  "listingAccount": null,
+  "ownerAccount": null,
+  "lfaViewPropertyPageUrl": null,
+  "listingOwnerConfigIDs": null,
+  "postingPresentationTypes": null,
+  "maloneId": "2333955220",
+  "city": "Brooklyn",
+  "state": "NY",
+  "homeStatus": "RECENTLY_SOLD",
+  "address": {
+    "streetAddress": "1625 E 13th St APT 3K",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zipcode": "11229",
+    "neighborhood": null,
+    "community": null,
+    "subdivision": null
+  },
+  "isListingClaimedByCurrentSignedInUser": false,
+  "isCurrentSignedInAgentResponsible": false,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "price": 290000,
+  "yearBuilt": null,
+  "streetAddress": "1625 E 13th St APT 3K",
+  "zipcode": "11229",
+  "isCurrentSignedInUserVerifiedOwner": false,
+  "propertyUpdatePageLink": null,
+  "moveHomeMapLocationLink": null,
+  "propertyEventLogLink": null,
+  "editPropertyHistorylink": null,
+  "isVerifiedClaimedByCurrentSignedInUser": false,
+  "listingDataSource": "Phoenix",
+  "longitude": -73.960045,
+  "latitude": 40.609608,
+  "hasBadGeocode": false,
+  "isCamo": null,
+  "listing_sub_type": {
+    "is_FSBA": false,
+    "is_newHome": false,
+    "is_FSBO": false,
+    "is_pending": false,
+    "is_bankOwned": false,
+    "is_openHouse": false,
+    "is_forAuction": false,
+    "is_comingSoon": false,
+    "is_foreclosure": false
+  },
+  "streetViewMetadataUrlMediaWallLatLong": "https://maps.googleapis.com/maps/api/streetview/metadata?location=40.609608,-73.960045&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=wt0CvTiS9p7jkcgl-8MgePk1uE8=",
+  "streetViewMetadataUrlMediaWallAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=1625%20E%2013th%20St%2C%20Brooklyn%2C%20NY%2011229&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=XSAbigH-V8j2PYH902BQjl1TSAc=",
+  "streetViewServiceUrl": "https://street-view-url.prod.zgk-partner.zillowapi.com?zpid=245001606&address=1625%20E%2013th%20St%2C%20Brooklyn%2C%20NY%2011229&width=512&height=234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&maxdistance=5280&lat=40.609608&lon=-73.960045&ttloverrides=%7B%22yesAddressSeconds%22:604800%7D&signature=yhAbuxl_GXX9pE7G-mHF4u3y2Mc=",
+  "livingArea": 950,
+  "homeType": "CONDO",
+  "lotSize": null,
+  "lotAreaValue": null,
+  "lotAreaUnits": "sqft",
+  "livingAreaValue": 950,
+  "livingAreaUnitsShort": "sqft",
+  "resoFacts": {
+    "bathroomsFull": 1,
+    "bathroomsThreeQuarter": 0,
+    "bathroomsHalf": 0,
+    "bathroomsOneQuarter": null,
+    "accessibilityFeatures": null,
+    "additionalFeeInfo": null,
+    "associations": [
+      {
+        "feeFrequency": "$609 monthly",
+        "name": "Residential Management",
+        "phone": "718-627-0600"
+      }
+    ],
+    "associationFee": "$609 monthly",
+    "associationAmenities": null,
+    "associationFee2": null,
+    "associationFeeIncludes": null,
+    "associationName": "Residential Management",
+    "associationName2": null,
+    "associationPhone": "718-627-0600",
+    "associationPhone2": null,
+    "basementYN": null,
+    "buildingName": "1625 East 13th Street Owners Inc.",
+    "buyerAgencyCompensation": null,
+    "buyerAgencyCompensationType": null,
+    "appliances": [
+      "Microwave",
+      "Refrigerator",
+      "Stove"
+    ],
+    "atAGlanceFacts": [
+      {
+        "factLabel": "Type",
+        "factValue": "Stock Cooperative"
+      },
+      {
+        "factLabel": "Year Built",
+        "factValue": null
+      },
+      {
+        "factLabel": "Heating",
+        "factValue": null
+      },
+      {
+        "factLabel": "Cooling",
+        "factValue": null
+      },
+      {
+        "factLabel": "Parking",
+        "factValue": "No Data"
+      },
+      {
+        "factLabel": "HOA",
+        "factValue": "$609 monthly"
+      },
+      {
+        "factLabel": "Offer Review Date",
+        "factValue": null
+      }
+    ],
+    "attic": null,
+    "availabilityDate": null,
+    "basement": null,
+    "bathrooms": 1,
+    "bathroomsPartial": null,
+    "bathroomsFloat": 1,
+    "bedrooms": 1,
+    "bodyType": null,
+    "canRaiseHorses": false,
+    "carportParkingCapacity": null,
+    "cityRegion": "Brooklyn",
+    "commonWalls": null,
+    "communityFeatures": null,
+    "cooling": null,
+    "coveredParkingCapacity": null,
+    "cropsIncludedYN": null,
+    "developmentStatus": null,
+    "doorFeatures": [
+      "Door \u2013 Intercom"
+    ],
+    "electric": null,
+    "elevation": null,
+    "elevationUnits": null,
+    "entryLevel": null,
+    "entryLocation": null,
+    "exclusions": null,
+    "feesAndDues": [
+      {
+        "type": "HOA",
+        "fee": "$609 monthly",
+        "name": "Residential Management",
+        "phone": "718-627-0600"
+      }
+    ],
+    "fencing": null,
+    "fireplaceFeatures": null,
+    "fireplaces": null,
+    "flooring": null,
+    "foundationArea": null,
+    "furnished": false,
+    "garageParkingCapacity": null,
+    "gas": null,
+    "greenBuildingVerificationType": null,
+    "greenEnergyEfficient": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "greenWaterConservation": null,
+    "hasAssociation": null,
+    "hasAttachedGarage": null,
+    "hasAttachedProperty": false,
+    "hasCooling": true,
+    "hasCarport": null,
+    "hasElectricOnProperty": null,
+    "hasFireplace": null,
+    "hasGarage": false,
+    "hasHeating": null,
+    "hasLandLease": false,
+    "hasOpenParking": null,
+    "hasSpa": false,
+    "hasPrivatePool": null,
+    "hasView": false,
+    "hasWaterfrontView": null,
+    "heating": null,
+    "highSchool": null,
+    "highSchoolDistrict": null,
+    "hoaFee": "$609 monthly",
+    "hoaFeeTotal": "$609 monthly",
+    "homeType": "Cooperative",
+    "horseAmenities": null,
+    "horseYN": null,
+    "interiorFeatures": [
+      "Elevator"
+    ],
+    "irrigationWaterRightsAcres": null,
+    "irrigationWaterRightsYN": null,
+    "isSeniorCommunity": null,
+    "landLeaseAmount": null,
+    "landLeaseExpirationDate": null,
+    "laundryFeatures": [
+      "Laundry \u2013 Card Operated"
+    ],
+    "levels": null,
+    "listingId": null,
+    "lotFeatures": null,
+    "lotSize": null,
+    "livingQuarters": [],
+    "mainLevelBathrooms": null,
+    "mainLevelBedrooms": null,
+    "marketingType": null,
+    "middleOrJuniorSchool": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "municipality": null,
+    "numberOfUnitsInCommunity": null,
+    "offerReviewDate": null,
+    "onMarketDate": 1675720342000,
+    "openParkingCapacity": null,
+    "otherEquipment": null,
+    "otherFacts": [],
+    "otherParking": null,
+    "ownershipType": null,
+    "parkingCapacity": 0,
+    "parkingFeatures": [],
+    "patioAndPorchFeatures": null,
+    "poolFeatures": null,
+    "pricePerSquareFoot": 305,
+    "roadSurfaceType": null,
+    "roofType": null,
+    "rooms": [],
+    "securityFeatures": [
+      "Secure Lobby"
+    ],
+    "sewer": null,
+    "spaFeatures": null,
+    "specialListingConditions": "Arm's Length",
+    "stories": null,
+    "storiesTotal": null,
+    "subdivisionName": "Brooklyn",
+    "totalActualRent": null,
+    "utilities": [
+      "Heat",
+      "Sewer Connected",
+      "Water Connected"
+    ],
+    "view": [],
+    "waterSource": null,
+    "waterBodyName": null,
+    "waterfrontFeatures": null,
+    "waterView": null,
+    "waterViewYN": null,
+    "windowFeatures": null,
+    "yearBuilt": null,
+    "zoning": null,
+    "zoningDescription": null,
+    "aboveGradeFinishedArea": null,
+    "additionalParcelsDescription": null,
+    "architecturalStyle": null,
+    "belowGradeFinishedArea": null,
+    "builderModel": null,
+    "builderName": null,
+    "buildingArea": "950",
+    "buildingAreaSource": null,
+    "buildingFeatures": [
+      "Resident Superintendent"
+    ],
+    "constructionMaterials": [],
+    "exteriorFeatures": [],
+    "foundationDetails": [],
+    "frontageLength": null,
+    "frontageType": null,
+    "hasAdditionalParcels": false,
+    "hasPetsAllowed": false,
+    "hasRentControl": null,
+    "hasHomeWarranty": false,
+    "inclusions": null,
+    "incomeIncludes": null,
+    "isNewConstruction": null,
+    "listingTerms": null,
+    "livingAreaRange": null,
+    "livingAreaRangeUnits": null,
+    "livingArea": "950 sqft",
+    "lotSizeDimensions": null,
+    "numberOfUnitsVacant": null,
+    "otherStructures": null,
+    "ownership": null,
+    "parcelNumber": "0677600653K",
+    "propertyCondition": null,
+    "propertySubType": [
+      "Stock Cooperative"
+    ],
+    "structureType": "Apartment",
+    "topography": null,
+    "vegetation": null,
+    "woodedArea": null,
+    "yearBuiltEffective": null,
+    "listAOR": null,
+    "elementarySchool": null,
+    "elementarySchoolDistrict": null
+  },
+  "isUndisclosedAddress": false,
+  "formattedChip": {
+    "location": [
+      {
+        "fullValue": "1625 East 13th Street Owners Inc."
+      },
+      {
+        "fullValue": "1625 E 13th St APT 3K"
+      },
+      {
+        "fullValue": "Brooklyn, NY 11229"
+      }
+    ]
+  },
+  "zestimate": null,
+  "rentZestimate": 2299,
+  "currency": "USD",
+  "hideZestimate": false,
+  "dateSoldString": "2023-08-30",
+  "taxAssessedValue": 3095000,
+  "taxAssessedYear": 2018,
+  "contingentListingType": null,
+  "attributionInfo": {
+    "trueStatus": null,
+    "listingAgreement": null,
+    "agentEmail": null,
+    "agentLicenseNumber": null,
+    "agentName": "Inna Rosentsveyg",
+    "agentPhoneNumber": "718-891-8600",
+    "attributionTitle": null,
+    "brokerName": "Korr Realty",
+    "brokerPhoneNumber": "718-891-8600",
+    "buyerAgentMemberStateLicense": null,
+    "buyerAgentName": null,
+    "buyerBrokerageName": null,
+    "coAgentLicenseNumber": null,
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "lastChecked": "2024-04-15 00:31:28",
+    "lastUpdated": "2023-08-31 05:56:35",
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Korr Realty"
+      }
+    ],
+    "listingAgents": [
+      {
+        "associatedAgentType": "listAgent",
+        "memberFullName": "Inna Rosentsveyg",
+        "memberStateLicense": null
+      }
+    ],
+    "mlsDisclaimer": "The property information being provided is for consumers\u2019 personal, non-commercial use and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing. Listing information is deemed reliable, but not guaranteed. The data relating to real estate for sale on this web site comes in part from the participating Brokers.\n",
+    "mlsId": "471674",
+    "mlsName": "BNYMLS",
+    "providerLogo": "https://photos.zillowstatic.com/fp/f37ed42b0d788acca8559b8191bfb76f-zillow_web_95_35.jpg"
+  },
+  "country": "USA",
+  "monthlyHoaFee": 609,
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.593,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1713166063253
+    }
+  },
+  "propertyTaxRate": 0,
+  "listingMetadata": {
+    "FlexibleLayoutAB": true,
+    "mustAttributeOfficeNameBeforeAgentName": false,
+    "mustDisplayAttributionListAgentEmail": false,
+    "mustDisplayAttributionListAgentPhone": false,
+    "mustDisplayAttributionListingOfficePhone": false,
+    "mustDisplayDisclaimerBelowAttribution": false,
+    "mustHighlightAgentName": null,
+    "mustHighlightListOfficeName": false,
+    "mustMakeListingAgentContactable": false,
+    "FlexibleLayoutB": true,
+    "FlexibleLayoutC": true,
+    "FlexibleLayoutD": true,
+    "FlexibleLayoutE": true,
+    "FlexibleLayoutF": false,
+    "FlexibleLayoutG": false,
+    "FlexibleLayoutH": true,
+    "FlexibleLayoutI": true,
+    "FlexibleLayoutJ": false,
+    "FlexibleLayoutK": false,
+    "FlexibleLayoutL": false,
+    "FlexibleLayoutM": true,
+    "FlexibleLayoutN": true,
+    "FlexibleLayoutO": true,
+    "FlexibleLayoutP": true,
+    "FlexibleLayoutQ": false,
+    "FlexibleLayoutR": false,
+    "FlexibleLayoutS": false,
+    "FlexibleLayoutT": false,
+    "FlexibleLayoutU": false,
+    "FlexibleLayoutV": false,
+    "FlexibleLayoutW": false,
+    "FlexibleLayoutX": false,
+    "FlexibleLayoutY": false,
+    "FlexibleLayoutZ": false,
+    "FlexibleLayoutAA": true,
+    "passwordRequiredForZestimateMarketAnalysis": false,
+    "canShowAutomatedValuationDisplay": true,
+    "canShowTaxHistory": true,
+    "canShowPriceHistory": true,
+    "canShowUserGeneratedContent": true,
+    "isAdsRestricted": false,
+    "hidePriceAdjustmentFlexField": false,
+    "canCommingleComparables": true,
+    "canShowComparables": true,
+    "isSuperTrafficOptimized": false,
+    "mustDisplayFeedLogoInContactBox": false,
+    "canShowCroppedPhotos": true,
+    "canShowNonIDXMedia": true,
+    "canShowOnMap": true,
+    "comminglingCategory": true,
+    "mustDisplayAttributionAboveLocalFacts": false,
+    "mustDisplayAuctionStatusAsSold": false,
+    "mustHighlightMlsId": null,
+    "mustHighlightMlsStatus": false,
+    "mustHighlightMarketingType": false,
+    "canShowZillowLogoInHeader": true,
+    "canShowPrequalifiedLinkInChip": true,
+    "comminglingCategoryIsRulesApplicable": true,
+    "mustPreferMlsPhotos": false
+  },
+  "photoCount": 13,
+  "isPremierBuilder": false,
+  "isShowcaseListing": false,
+  "postingUrl": null,
+  "ssid": 479,
+  "brokerId": null,
+  "listingSubType": {
+    "isFSBA": false,
+    "isPending": false,
+    "isNewHome": false,
+    "isForeclosure": false,
+    "isBankOwned": false,
+    "isForAuction": false,
+    "isOpenHouse": false,
+    "isComingSoon": false,
+    "isFSBO": false
+  },
+  "hdpUrl": "/homedetails/1625-E-13th-St-APT-3K-Brooklyn-NY-11229/245001606_zpid/",
+  "tourViewCount": 0,
+  "postingContact": {
+    "name": "Inna Rosentsveyg",
+    "photo": null
+  },
+  "vrModel": {
+    "vrModelGuid": null,
+    "revisionId": null
+  },
+  "richMedia": null,
+  "isZillowOwned": false,
+  "hasPublicVideo": false,
+  "primaryPublicVideo": null,
+  "richMediaVideos": null,
+  "lastSoldPrice": 290000,
+  "livingAreaUnits": "Square Feet",
+  "newConstructionType": null,
+  "thirdPartyVirtualTour": {
+    "lightboxUrl": null,
+    "approved": false,
+    "providerKey": null
+  },
+  "hasApprovedThirdPartyVirtualTourUrl": false,
+  "isHousingConnector": false,
+  "streetViewTileImageUrlMediumLatLong": "https://maps.googleapis.com/maps/api/streetview?location=40.609608,-73.960045&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=8yq2qYTNvoWBVAIf0mxTrZ1-HZc=",
+  "streetViewTileImageUrlMediumAddress": "https://maps.googleapis.com/maps/api/streetview?location=1625%20E%2013th%20St%2C%20Brooklyn%2C%20NY%2011229&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=OrOzYXBoRHukhsHr4fYvittIs0o=",
+  "streetViewMetadataUrlMapLightboxAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=1625%20E%2013th%20St%2C%20Brooklyn%2C%20NY%2011229&key=AIzaSyBV4lXhV-qzQOegyA3m0_AvGy9F21HIyOQ&source=outdoor&signature=EDE-xwwDqzpyFTdUeoFV-_e5ToU=",
+  "thumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/0d123c080c09edd1dc9e7891d5bbcb7c-p_a.jpg"
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/0d123c080c09edd1dc9e7891d5bbcb7c-p_c.jpg"
+    }
+  ],
+  "stateId": 43,
+  "countyId": 581,
+  "cityId": 6181,
+  "isNonOwnerOccupied": false,
+  "forecast": null,
+  "zestimateMinus30": null,
+  "restimateMinus30": "2387",
+  "zestimateLowPercent": null,
+  "zestimateHighPercent": null,
+  "restimateLowPercent": "16",
+  "restimateHighPercent": "20",
+  "adTargets": {
+    "aamgnrc2": "Apt 3K",
+    "zip": "11229",
+    "aamgnrc1": "1625 E 13th St APT 3K",
+    "mlat": "40.609608",
+    "bd": "1",
+    "fsbid": "479",
+    "zusr": "true",
+    "city": "Brooklyn",
+    "proptp": "cnd",
+    "pid": "245001606",
+    "tflag": "verizon",
+    "listtp": "buy_sold",
+    "stale": "yes",
+    "premieragent": "no",
+    "sqftrange": "500-999",
+    "price": "290000",
+    "dma": "43",
+    "guid": "81ec4354-1db6-40a2-9c92-141a72542315",
+    "sqft": "950",
+    "state": "NY",
+    "mlong": "-73.960045",
+    "cnty": "Kings",
+    "prange": "250-299k",
+    "ssid": "479"
+  },
+  "description": "Absolutely huge 1 bedroom co-op, eat-in-kitchen with window plus dinette, full bath with a window, bedroom has 3 windows, in an all move in condition, parquet floors, very high ceilings, stainless steel appliances, extra large closets, new doors, building has a beautiful lobby. amazing location next to absolutely everything: Kings Hwy shopping, transportation, etc.",
+  "whatILove": null,
+  "pals": [],
+  "listedBy": [
+    {
+      "id": "LISTING_AGENT",
+      "elements": [
+        {
+          "id": "NAME",
+          "text": "Inna Rosentsveyg",
+          "action": null
+        }
+      ],
+      "textStyle": null
+    },
+    {
+      "id": "BROKER",
+      "elements": [
+        {
+          "id": "NAME",
+          "text": "Korr Realty",
+          "action": null
+        }
+      ],
+      "textStyle": null
+    }
+  ],
+  "countyFIPS": "36047",
+  "parcelId": "0677600653K",
+  "taxHistory": [
+    {
+      "time": 1586936678568,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": null,
+      "valueIncreaseRate": 0
+    },
+    {
+      "time": 1555314278568,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": null,
+      "valueIncreaseRate": 0
+    },
+    {
+      "time": 1523778278568,
+      "taxPaid": 159297.12,
+      "taxIncreaseRate": 0,
+      "value": 1392750,
+      "valueIncreaseRate": 0.007159128
+    },
+    {
+      "time": 1492242278568,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 1382850,
+      "valueIncreaseRate": 0
+    }
+  ],
+  "priceHistory": [
+    {
+      "date": "2023-08-30",
+      "time": 1693353600000,
+      "price": 290000,
+      "pricePerSquareFoot": 305,
+      "priceChangeRate": -0.07936507936507936,
+      "event": "Sold",
+      "source": "BNYMLS",
+      "buyerAgent": null,
+      "sellerAgent": {
+        "photo": {
+          "url": "https://photos.zillowstatic.com/h_e/ISvwo5s1fvoi2c0000000000.jpg"
+        },
+        "profileUrl": "/profile/innakorr3/",
+        "name": "Inna Rosentsveyg"
+      },
+      "showCountyLink": false,
+      "postingIsRental": false,
+      "attributeSource": {
+        "infoString1": "471674",
+        "infoString2": "BNYMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/f37ed42b0d788acca8559b8191bfb76f-zillow_web_logo_inf_11.jpg"
+      }
+    },
+    {
+      "date": "2023-06-17",
+      "time": 1686960000000,
+      "price": 315000,
+      "pricePerSquareFoot": 332,
+      "priceChangeRate": 0,
+      "event": "Pending sale",
+      "source": "BNYMLS",
+      "buyerAgent": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "postingIsRental": false,
+      "attributeSource": {
+        "infoString1": "471674",
+        "infoString2": "BNYMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/f37ed42b0d788acca8559b8191bfb76f-zillow_web_logo_inf_11.jpg"
+      }
+    },
+    {
+      "date": "2023-02-06",
+      "time": 1675641600000,
+      "price": 315000,
+      "pricePerSquareFoot": 332,
+      "priceChangeRate": 0,
+      "event": "Listed for sale",
+      "source": "BNYMLS",
+      "buyerAgent": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "postingIsRental": false,
+      "attributeSource": {
+        "infoString1": "471674",
+        "infoString2": "BNYMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/f37ed42b0d788acca8559b8191bfb76f-zillow_web_logo_inf_11.jpg"
+      }
+    }
+  ],
+  "homeValues": null,
+  "parentRegion": {
+    "name": "Midwood"
+  },
+  "nearbyHomes": [
+    {
+      "zpid": 30726866,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6af6bc2136b52b20a6f2657fd370770-p_c.jpg"
+        }
+      ],
+      "price": 200000,
+      "currency": "USD",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "livingArea": 850,
+      "livingAreaValue": 850,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "lotSize": 15999,
+      "lotAreaValue": 0.3673094582185491,
+      "lotAreaUnits": "Acres",
+      "address": {
+        "streetAddress": "1625 E 13th St #65",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11229"
+      },
+      "parentRegion": null,
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1625 E 13th St #65"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "latitude": 40.609608,
+      "longitude": -73.960045,
+      "homeStatus": "SOLD",
+      "homeType": "APARTMENT",
+      "hdpUrl": "/homedetails/1625-E-13th-St-65-Brooklyn-NY-11229/30726866_zpid/",
+      "hdpTypeDimension": "RecentlySold",
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_newHome": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_foreclosure": false,
+        "is_FSBO": false,
+        "is_comingSoon": false,
+        "is_FSBA": false
+      },
+      "providerListingID": null,
+      "attributionInfo": {
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "trueStatus": null
+      },
+      "isShowcaseListing": false,
+      "isPremierBuilder": false,
+      "state": "NY",
+      "newConstructionType": null
+    },
+    {
+      "zpid": 72657441,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1625+E+13th+St%2C+Brooklyn%2C+NY+11229&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ELr30BOQ-h_gpeZVInnh-DMZbm0="
+        }
+      ],
+      "price": 231600,
+      "currency": "USD",
+      "bedrooms": null,
+      "bathrooms": null,
+      "livingArea": null,
+      "livingAreaValue": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "lotSize": null,
+      "lotAreaValue": null,
+      "lotAreaUnits": "sqft",
+      "address": {
+        "streetAddress": "1625 E 13th St APT 2F",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11229"
+      },
+      "parentRegion": null,
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1625 E 13th St APT 2F"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "latitude": 40.609608,
+      "longitude": -73.960045,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "hdpUrl": "/homedetails/1625-E-13th-St-APT-2F-Brooklyn-NY-11229/72657441_zpid/",
+      "hdpTypeDimension": "Zestimate",
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_newHome": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_foreclosure": false,
+        "is_FSBO": false,
+        "is_comingSoon": false,
+        "is_FSBA": false
+      },
+      "providerListingID": null,
+      "attributionInfo": {
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "trueStatus": null
+      },
+      "isShowcaseListing": false,
+      "isPremierBuilder": false,
+      "state": "NY",
+      "newConstructionType": null
+    },
+    {
+      "zpid": 72657443,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1625+E+13th+St%2C+Brooklyn%2C+NY+11229&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ELr30BOQ-h_gpeZVInnh-DMZbm0="
+        }
+      ],
+      "price": 270100,
+      "currency": "USD",
+      "bedrooms": null,
+      "bathrooms": null,
+      "livingArea": null,
+      "livingAreaValue": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "lotSize": null,
+      "lotAreaValue": null,
+      "lotAreaUnits": "sqft",
+      "address": {
+        "streetAddress": "1625 E 13th St APT 6B",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11229"
+      },
+      "parentRegion": null,
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1625 E 13th St APT 6B"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "latitude": 40.609608,
+      "longitude": -73.960045,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "hdpUrl": "/homedetails/1625-E-13th-St-APT-6B-Brooklyn-NY-11229/72657443_zpid/",
+      "hdpTypeDimension": "Zestimate",
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_newHome": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_foreclosure": false,
+        "is_FSBO": false,
+        "is_comingSoon": false,
+        "is_FSBA": false
+      },
+      "providerListingID": null,
+      "attributionInfo": {
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "trueStatus": null
+      },
+      "isShowcaseListing": false,
+      "isPremierBuilder": false,
+      "state": "NY",
+      "newConstructionType": null
+    },
+    {
+      "zpid": 79713731,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1625+E+13th+St%2C+Brooklyn%2C+NY+11229&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ELr30BOQ-h_gpeZVInnh-DMZbm0="
+        }
+      ],
+      "price": 233600,
+      "currency": "USD",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "livingArea": 820,
+      "livingAreaValue": 820,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "lotSize": null,
+      "lotAreaValue": null,
+      "lotAreaUnits": "sqft",
+      "address": {
+        "streetAddress": "1625 E 13th St APT 5A",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11229"
+      },
+      "parentRegion": null,
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1625 E 13th St APT 5A"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "latitude": 40.609608,
+      "longitude": -73.960045,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "hdpUrl": "/homedetails/1625-E-13th-St-APT-5A-Brooklyn-NY-11229/79713731_zpid/",
+      "hdpTypeDimension": "Zestimate",
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_newHome": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_foreclosure": false,
+        "is_FSBO": false,
+        "is_comingSoon": false,
+        "is_FSBA": false
+      },
+      "providerListingID": null,
+      "attributionInfo": {
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "trueStatus": null
+      },
+      "isShowcaseListing": false,
+      "isPremierBuilder": false,
+      "state": "NY",
+      "newConstructionType": null
+    },
+    {
+      "zpid": 92692907,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d01f5f194b1337e39f1c639b1713734a-p_c.jpg"
+        }
+      ],
+      "price": 257700,
+      "currency": "USD",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "livingArea": null,
+      "livingAreaValue": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "lotSize": null,
+      "lotAreaValue": null,
+      "lotAreaUnits": "sqft",
+      "address": {
+        "streetAddress": "1625 E 13th St APT 1G",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11229"
+      },
+      "parentRegion": null,
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1625 E 13th St APT 1G"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "latitude": 40.609608,
+      "longitude": -73.960045,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "hdpUrl": "/homedetails/1625-E-13th-St-APT-1G-Brooklyn-NY-11229/92692907_zpid/",
+      "hdpTypeDimension": "Zestimate",
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_newHome": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_foreclosure": false,
+        "is_FSBO": false,
+        "is_comingSoon": false,
+        "is_FSBA": false
+      },
+      "providerListingID": null,
+      "attributionInfo": {
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "trueStatus": null
+      },
+      "isShowcaseListing": false,
+      "isPremierBuilder": false,
+      "state": "NY",
+      "newConstructionType": null
+    },
+    {
+      "zpid": 123974137,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b5df74cbe52221052c030fa0a5181fb-p_c.jpg"
+        }
+      ],
+      "price": 446700,
+      "currency": "USD",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "livingArea": null,
+      "livingAreaValue": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "lotSize": null,
+      "lotAreaValue": null,
+      "lotAreaUnits": "sqft",
+      "address": {
+        "streetAddress": "1625 E 13th St APT 3H",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11229"
+      },
+      "parentRegion": null,
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1625 E 13th St APT 3H"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "latitude": 40.609608,
+      "longitude": -73.960045,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "hdpUrl": "/homedetails/1625-E-13th-St-APT-3H-Brooklyn-NY-11229/123974137_zpid/",
+      "hdpTypeDimension": "Zestimate",
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_newHome": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_foreclosure": false,
+        "is_FSBO": false,
+        "is_comingSoon": false,
+        "is_FSBA": false
+      },
+      "providerListingID": null,
+      "attributionInfo": {
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "trueStatus": null
+      },
+      "isShowcaseListing": false,
+      "isPremierBuilder": false,
+      "state": "NY",
+      "newConstructionType": null
+    },
+    {
+      "zpid": 216130867,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1625+E+13th+St%2C+Brooklyn%2C+NY+11229&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ELr30BOQ-h_gpeZVInnh-DMZbm0="
+        }
+      ],
+      "price": 357800,
+      "currency": "USD",
+      "bedrooms": null,
+      "bathrooms": null,
+      "livingArea": null,
+      "livingAreaValue": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "lotSize": null,
+      "lotAreaValue": null,
+      "lotAreaUnits": "sqft",
+      "address": {
+        "streetAddress": "1625 E 13th St APT 5H",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11229"
+      },
+      "parentRegion": null,
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1625 E 13th St APT 5H"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "latitude": 40.609608,
+      "longitude": -73.960045,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "hdpUrl": "/homedetails/1625-E-13th-St-APT-5H-Brooklyn-NY-11229/216130867_zpid/",
+      "hdpTypeDimension": "Zestimate",
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_newHome": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_foreclosure": false,
+        "is_FSBO": false,
+        "is_comingSoon": false,
+        "is_FSBA": false
+      },
+      "providerListingID": null,
+      "attributionInfo": {
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "trueStatus": null
+      },
+      "isShowcaseListing": false,
+      "isPremierBuilder": false,
+      "state": "NY",
+      "newConstructionType": null
+    },
+    {
+      "zpid": 244987584,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6768a67a96c750f807201608a36dcf2b-p_c.jpg"
+        }
+      ],
+      "price": 260200,
+      "currency": "USD",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "livingArea": 900,
+      "livingAreaValue": 900,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "lotSize": null,
+      "lotAreaValue": null,
+      "lotAreaUnits": "sqft",
+      "address": {
+        "streetAddress": "1625 E 13th St APT 6A",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11229"
+      },
+      "parentRegion": null,
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1625 E 13th St APT 6A"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "latitude": 40.609608,
+      "longitude": -73.960045,
+      "homeStatus": "OTHER",
+      "homeType": "MULTI_FAMILY",
+      "hdpUrl": "/homedetails/1625-E-13th-St-APT-6A-Brooklyn-NY-11229/244987584_zpid/",
+      "hdpTypeDimension": "Zestimate",
+      "propertyTypeDimension": "Multi Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_newHome": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_foreclosure": false,
+        "is_FSBO": false,
+        "is_comingSoon": false,
+        "is_FSBA": false
+      },
+      "providerListingID": null,
+      "attributionInfo": {
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "trueStatus": null
+      },
+      "isShowcaseListing": false,
+      "isPremierBuilder": false,
+      "state": "NY",
+      "newConstructionType": null
+    },
+    {
+      "zpid": 244988669,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1625+E+13th+St%2C+Brooklyn%2C+NY+11229&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ELr30BOQ-h_gpeZVInnh-DMZbm0="
+        }
+      ],
+      "price": 3095000,
+      "currency": "USD",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "livingArea": null,
+      "livingAreaValue": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "lotSize": null,
+      "lotAreaValue": null,
+      "lotAreaUnits": "sqft",
+      "address": {
+        "streetAddress": "1625 E 13th St APT 1A",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11229"
+      },
+      "parentRegion": null,
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1625 E 13th St APT 1A"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "latitude": 40.609608,
+      "longitude": -73.960045,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "hdpUrl": "/homedetails/1625-E-13th-St-APT-1A-Brooklyn-NY-11229/244988669_zpid/",
+      "hdpTypeDimension": "NoZestimate",
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_newHome": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_foreclosure": false,
+        "is_FSBO": false,
+        "is_comingSoon": false,
+        "is_FSBA": false
+      },
+      "providerListingID": null,
+      "attributionInfo": {
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "trueStatus": null
+      },
+      "isShowcaseListing": false,
+      "isPremierBuilder": false,
+      "state": "NY",
+      "newConstructionType": null
+    }
+  ],
+  "schools": [
+    {
+      "distance": 0.3,
+      "name": "Ps 238 Anne Sullivan",
+      "rating": 3,
+      "level": "Primary",
+      "studentsPerTeacher": null,
+      "assigned": null,
+      "grades": "PK-8",
+      "link": "https://www.greatschools.org/new-york/brooklyn/2693-Ps-238-Anne-Sullivan/",
+      "type": "Public",
+      "size": null,
+      "totalCount": null,
+      "isAssigned": null
+    },
+    {
+      "distance": 0.7,
+      "name": "Edward R Murrow High School",
+      "rating": 4,
+      "level": "High",
+      "studentsPerTeacher": null,
+      "assigned": null,
+      "grades": "9-12",
+      "link": "https://www.greatschools.org/new-york/brooklyn/1954-Edward-R-Murrow-High-School/",
+      "type": "Public",
+      "size": null,
+      "totalCount": null,
+      "isAssigned": null
+    }
+  ],
+  "citySearchUrl": {
+    "text": "Homes in New York",
+    "path": "/new-york-ny/"
+  },
+  "NFSHDPTopSlot": {
+    "eventId": "f66dab47-b549-4b76-b701-f35e6c62bd97",
+    "decisionContext": {},
+    "messages": [
+      {
+        "skipDisplayReason": null,
+        "shouldDisplay": true,
+        "isGlobalHoldout": false,
+        "isPlacementHoldout": false,
+        "placementName": "NFSHDPTopSlot",
+        "testPhase": "BASELINE",
+        "bucket": "BASELINE_TREATMENT",
+        "placementId": 1123,
+        "passThrottle": true,
+        "lastModified": "1712056664000",
+        "eventId": "3759a99e-051a-4fb4-93ca-64b0104cc635",
+        "decisionContext": {
+          "guid": "a5a66d44-cd3f-4048-a095-2aab5650b473",
+          "operatingSystem": "unknown",
+          "homeStatus": "recentlySold",
+          "isZillowOwned": false,
+          "zpid": "245001606",
+          "zipcode": "11229",
+          "homeType": "CONDO",
+          "listPrice": 290000,
+          "countyId": "581",
+          "stateId": "43",
+          "isAdsRestricted": false,
+          "shouldDisplayUpsell": false,
+          "zoMarketCode": "NO_MARKET",
+          "placementId": "wow-top",
+          "surfaceId": "omhdp",
+          "isEligibleZOFullCriteria": false,
+          "leadType": "",
+          "leadTypes": []
+        },
+        "selectedTreatment": {
+          "id": 3045,
+          "name": "zgm_refinance_omhdp_top_your-homes-equity-v1",
+          "component": "PLUpsellWrapper",
+          "status": "PORTFOLIO",
+          "renderingProps": "{\"actionLink\":\"https://www.zillow.com/mortgages/#/landing&loanType=refinance&zipCode=11229&propertyValue=290000&propertyType=CondoFourOrFewerStories&source=Z_NotForSaleHDP_Inline&hdpSource=NFS_HDP\",\"actionText\":\"Start now\",\"actionType\":\"url_link\",\"bodyMarkdownText\":\"Zillow makes it simple to explore your cash-out refinance options. <p class=\\\"zg-mls-note\\\">Zillow Group Marketplace, Inc. NMLS #1303160</p><style> @media (min-width:320px) { div[class*=PLUpsellTemplate-] button { margin-bottom: 15px !important; }} .zg-mls-note{ font-size: 10px; font-weight: 400; position: absolute; right: 0; bottom: 0; margin-bottom: 0; color: grey; } </style>\",\"headingMarkdownText\":\"Tap into your home\u2019s equity\",\"icon\":\"houseWithDollarSign\",\"overrideMargin\":\"0px 16px 0px 16px\",\"gaAction\":\"ZGM Refinance Upsell\",\"gaCategory\":\"Homes\",\"gaLocation\":\"wow-top\",\"gaSurface\":\"omhdp\",\"gaTreatment\":\"zgm-refinance-your-homes-equity-v1\"}",
+          "lastModified": "1682506588000"
+        },
+        "qualifiedTreatments": [
+          {
+            "id": 3045,
+            "name": "zgm_refinance_omhdp_top_your-homes-equity-v1",
+            "status": "PORTFOLIO",
+            "lastModified": "1682506588000"
+          }
+        ]
+      }
+    ]
+  },
+  "NFSHDPBottomSlot": {
+    "eventId": "f66dab47-b549-4b76-b701-f35e6c62bd97",
+    "decisionContext": {},
+    "messages": [
+      {
+        "skipDisplayReason": null,
+        "shouldDisplay": true,
+        "isGlobalHoldout": false,
+        "isPlacementHoldout": false,
+        "placementName": "NFSHDPBottomSlot",
+        "testPhase": "PORTFOLIO_INTEGRATION",
+        "bucket": "PORTFOLIO_INTEGRATION_CTRL",
+        "placementId": 1139,
+        "passThrottle": true,
+        "lastModified": "1706881826000",
+        "eventId": "dae0298f-7385-4e8f-9313-fe30963998dd",
+        "decisionContext": {
+          "guid": "a5a66d44-cd3f-4048-a095-2aab5650b473",
+          "operatingSystem": "unknown",
+          "homeStatus": "recentlySold",
+          "isZillowOwned": false,
+          "zpid": "245001606",
+          "zipcode": "11229",
+          "homeType": "CONDO",
+          "listPrice": 290000,
+          "countyId": "581",
+          "stateId": "43",
+          "isAdsRestricted": false,
+          "shouldDisplayUpsell": false,
+          "zoMarketCode": "NO_MARKET",
+          "placementId": "wow-bottom",
+          "surfaceId": "omhdp",
+          "isEligibleZOFullCriteria": false,
+          "leadType": "",
+          "leadTypes": []
+        },
+        "selectedTreatment": null,
+        "qualifiedTreatments": []
+      }
+    ]
+  },
+  "hoaFee": 609,
+  "mortgageRates": {
+    "thirtyYearFixedRate": 6.593
+  },
+  "isInstantOfferEnabled": false,
+  "zillowOfferMarket": null,
+  "dateSold": 1693353600000,
+  "county": "Kings County",
+  "isRentalListingOffMarket": false,
+  "nearbyCities": [
+    {
+      "regionUrl": {
+        "path": "/new-york-ny/"
+      },
+      "name": "New York",
+      "body": null
+    }
+  ],
+  "nearbyNeighborhoods": [
+    {
+      "regionUrl": {
+        "path": "/astoria-queens-new-york-ny/"
+      },
+      "name": "Astoria",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/bedford-stuyvesant-brooklyn-new-york-ny/"
+      },
+      "name": "Bedford-Stuyvesant",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/crown-heights-brooklyn-new-york-ny/"
+      },
+      "name": "Crown Heights",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/east-new-york-brooklyn-new-york-ny/"
+      },
+      "name": "East New York",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/flushing-queens-new-york-ny/"
+      },
+      "name": "Flushing",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/harlem-manhattan-new-york-ny/"
+      },
+      "name": "Harlem",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/upper-east-side-manhattan-new-york-ny/"
+      },
+      "name": "Upper East Side",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/upper-west-side-manhattan-new-york-ny/"
+      },
+      "name": "Upper West Side",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/washington-heights-manhattan-new-york-ny/"
+      },
+      "name": "Washington Heights",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/williamsburg-brooklyn-new-york-ny/"
+      },
+      "name": "Williamsburg",
+      "body": null
+    }
+  ],
+  "nearbyZipcodes": [
+    {
+      "regionUrl": {
+        "path": "/manhattan-new-york-ny-10025/"
+      },
+      "name": "10025",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/bronx-new-york-ny-10467/"
+      },
+      "name": "10467",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/brooklyn-new-york-ny-11207/"
+      },
+      "name": "11207",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/brooklyn-new-york-ny-11208/"
+      },
+      "name": "11208",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/brooklyn-new-york-ny-11214/"
+      },
+      "name": "11214",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/brooklyn-new-york-ny-11226/"
+      },
+      "name": "11226",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/brooklyn-new-york-ny-11236/"
+      },
+      "name": "11236",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/queens-new-york-ny-11368/"
+      },
+      "name": "11368",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/queens-new-york-ny-11373/"
+      },
+      "name": "11373",
+      "body": null
+    },
+    {
+      "regionUrl": {
+        "path": "/queens-new-york-ny-11385/"
+      },
+      "name": "11385",
+      "body": null
+    }
+  ],
+  "zipcodeSearchUrl": {
+    "path": "/brooklyn-new-york-ny-11229/"
+  },
+  "apartmentsForRentInZipcodeSearchUrl": {
+    "path": "/brooklyn-new-york-ny-11229/apartments/"
+  },
+  "housesForRentInZipcodeSearchUrl": {
+    "path": "/brooklyn-new-york-ny-11229/rent-houses/"
+  },
+  "abbreviatedAddress": "1625 E 13th St APT 3K",
+  "neighborhoodRegion": {
+    "name": "Midwood"
+  },
+  "building": null,
+  "boroughId": 37607,
+  "providerListingID": null,
+  "neighborhoodSearchUrl": {
+    "path": "/midwood-brooklyn-new-york-ny/"
+  },
+  "stateSearchUrl": {
+    "path": "/ny/"
+  },
+  "countySearchUrl": {
+    "text": "Homes in Kings County",
+    "path": "/kings-county-ny/"
+  },
+  "boroughSearchUrl": {
+    "text": "Homes in Brooklyn",
+    "path": "/brooklyn-new-york-ny/"
+  },
+  "communityUrl": null,
+  "homeValuation": {
+    "comparables": null
+  },
+  "daysOnZillow": 228,
+  "isConfirmedClaimedByCurrentSignedInUser": false,
+  "isRecentStatusChange": false,
+  "buildingId": "1004524429",
+  "foreclosureTypes": {
+    "isBankOwned": false,
+    "wasNonRetailAuction": false,
+    "wasDefault": null
+  },
+  "isFeatured": false,
+  "rentalApplicationsAcceptedType": "REQUEST_TO_APPLY",
+  "brokerageName": "Korr Realty",
+  "propertyTypeDimension": "Condo",
+  "hdpTypeDimension": "RecentlySold",
+  "listingTypeDimension": "Unknown Listed By",
+  "featuredListingTypeDimension": "organic",
+  "brokerIdDimension": "Unknown Listed By",
+  "keystoneHomeStatus": "RecentlySold",
+  "pageUrlFragment": "RecentlySold",
+  "isRentalsLeadCapMet": false,
+  "isPaidMultiFamilyBrokerId": false,
+  "timeZone": "America/New_York",
+  "tourEligibility": {
+    "isPropertyTourEligible": false
+  },
+  "virtualTourUrl": null,
+  "selfTour": {
+    "hasSelfTour": false
+  },
+  "listingAccountUserId": "X1-ZUw0q51h6i4z61_88dzc"
+}
